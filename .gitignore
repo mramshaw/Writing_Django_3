@@ -1,0 +1,9 @@
+# The next two lines could also be done as:
+# *.py[co]
+*.pyc
+*.pyo
+
+polls/db.sqlite3
+
+build/
+dist/
