@@ -1,6 +1,7 @@
 # Writing Django 3
 
 [![Known Vulnerabilities](https://snyk.io/test/github/mramshaw/Writing_Django_3/badge.svg?style=plastic&targetFile=requirements.txt)](https://snyk.io/test/github/mramshaw/Writing_Django_3?style=plastic&targetFile=requirements.txt)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 Having investigated [Django 2 with Python 3](http://github.com/mramshaw/Writing_Django_2) it seemed
 time to investigate Django __3__ with Python __3__, as Django 2 development ended in 2019 (Django
@@ -572,6 +573,7 @@ $
 ## To Do
 
 - [ ] Follow parts 3 - 7 of this tutorial
+- [x] Add a badge for `Black` formatting style
 
 ## Credits
 
